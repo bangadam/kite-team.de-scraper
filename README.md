@@ -1,5 +1,5 @@
 # kite-team.de-scraper
-Scraping product using BeautifulSoup
+Scraping https://www.kite-team.de/ product using BeautifulSoup
 
 # Installation
 1. Clone this repository
